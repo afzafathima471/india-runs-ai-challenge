@@ -56,7 +56,8 @@ So instead of simple keyword matching, this system uses **multi-signal scoring**
 india-runs-ai-challenge/
 │
 ├── ranker.py                  # Main scoring system
-├── submission.csv             # Final ranked output (Top 100)
+├── submission.csv
+├── submission.xlsx            # Final ranked output (Top 100)
 ├── requirements.txt           # Dependencies
 ├── approach.pdf               # Methodology presentation
 └── README.md                  # This file
